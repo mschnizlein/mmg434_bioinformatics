@@ -1,1 +1,1 @@
-# Files and data for bioinformatics portion of the Winter 2023 semester of MMG 434 (Michigan State University)
+# Files and data for the bioinformatics portion of MMG 434 (Winter 2023 semester; Michigan State University)
